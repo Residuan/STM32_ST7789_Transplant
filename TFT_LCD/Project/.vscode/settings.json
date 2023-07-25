@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "spi.h": "c",
+        "lcd.h": "c",
+        "stm32f10x.h": "c",
+        "st7789.h": "c",
+        "delay.h": "c",
+        "algorithm": "c",
+        "fonts.h": "c"
+    }
+}
