@@ -1,6 +1,6 @@
 原版来自Github作者Floyd-Fish: https://github.com/Floyd-Fish/ST7789-STM32/tree/master
 
-本例程使用STM32F10XZET6
+本例程使用STM32F103ZET6
 使用硬件SPI1  
 
 SCL----->GPIOA5
